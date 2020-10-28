@@ -100,7 +100,7 @@ At the command prompt, type the following:
 
 .. code-block:: bash
 
-  gradlew clean build createPackage
+  ../gradlew clean build createPackage  
 
 for Windows, or
 
